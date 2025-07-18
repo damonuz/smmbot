@@ -1,0 +1,4 @@
+BOT_TOKEN = "7516618729:AAEijGKan0PvGHuJpBpD-xpnzTHMJIQUxDE"
+REQUIRED_CHANNELS = ['tezkoruy', 'reklama_ortada_turish_admin']
+ADMIN_ID = 8052394909
+REF_BONUS = 100
